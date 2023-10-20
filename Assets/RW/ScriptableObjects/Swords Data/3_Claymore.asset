@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a5bedabcb6464b7792b79df350e8790, type: 3}
+  m_Name: 3_Claymore
+  m_EditorClassIdentifier: 
+  swordName: Claymore
+  description: "\u043D\u0435 \u0441\u043E\u043C\u043D\u0435\u0432\u0430\u0439\u0441\u044F
+    - \u044D\u0442\u043E Claymore"
+  icon: {fileID: 21300000, guid: b614bbd9a9481254b9695a0ac1e17b87, type: 3}
+  goldCost: 30
+  attackDamage: 300
