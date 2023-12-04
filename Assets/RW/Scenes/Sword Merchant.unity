@@ -178,6 +178,12 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 114854772269584276, guid: 0b8ca2f9914b7f746b3ea1444786a63e,
         type: 3}
+      propertyPath: OnSwordEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 787df810b75134e6fb3fe4f6383c9e7a,
+        type: 2}
+    - target: {fileID: 114854772269584276, guid: 0b8ca2f9914b7f746b3ea1444786a63e,
+        type: 3}
       propertyPath: OnSwordSelected
       value: 
       objectReference: {fileID: 11400000, guid: 787df810b75134e6fb3fe4f6383c9e7a,
@@ -382,6 +388,12 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 114329817378986084, guid: c1005caa6941a45418635cdf0f1139ea,
         type: 3}
+      propertyPath: OnSwordEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 815973cea219c4432bf958b66cbc0540,
+        type: 2}
+    - target: {fileID: 114329817378986084, guid: c1005caa6941a45418635cdf0f1139ea,
+        type: 3}
       propertyPath: OnSwordSelected
       value: 
       objectReference: {fileID: 11400000, guid: 815973cea219c4432bf958b66cbc0540,
@@ -511,6 +523,12 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 114919863713329672, guid: 5702e839c26040d42b40429b7dbb89cc,
         type: 3}
+      propertyPath: OnSwordEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: ffa0df76687ad4ca9874a40d48b0ec9f,
+        type: 2}
+    - target: {fileID: 114919863713329672, guid: 5702e839c26040d42b40429b7dbb89cc,
+        type: 3}
       propertyPath: OnSwordSelected
       value: 
       objectReference: {fileID: 11400000, guid: ffa0df76687ad4ca9874a40d48b0ec9f,
@@ -561,6 +579,12 @@ PrefabInstance:
       propertyPath: swordData
       value: 
       objectReference: {fileID: 11400000, guid: d25583c402e6c47b5a0efc847c487f2b,
+        type: 2}
+    - target: {fileID: 114889108461879984, guid: dca4a46237666594aae4c02dc49e9ed3,
+        type: 3}
+      propertyPath: OnSwordEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 4bfe55884c88442299b6ffb016c2f0d7,
         type: 2}
     - target: {fileID: 114889108461879984, guid: dca4a46237666594aae4c02dc49e9ed3,
         type: 3}
@@ -641,6 +665,12 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 114197732231314864, guid: 52231d642efb9b54ea6b8739d77908c5,
         type: 3}
+      propertyPath: OnSwordEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 73c028ff4a6434b3796daa180e5cf834,
+        type: 2}
+    - target: {fileID: 114197732231314864, guid: 52231d642efb9b54ea6b8739d77908c5,
+        type: 3}
       propertyPath: OnSwordSelected
       value: 
       objectReference: {fileID: 11400000, guid: 73c028ff4a6434b3796daa180e5cf834,
@@ -691,6 +721,12 @@ PrefabInstance:
       propertyPath: swordData
       value: 
       objectReference: {fileID: 11400000, guid: b42228cbf6e8143388309e800783d71f,
+        type: 2}
+    - target: {fileID: 114602543209253182, guid: 39069f295ce0e20479c06ddb8196bb35,
+        type: 3}
+      propertyPath: OnSwordEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 7d14e40d7f0e24de8b3f9084c2783bd1,
         type: 2}
     - target: {fileID: 114602543209253182, guid: 39069f295ce0e20479c06ddb8196bb35,
         type: 3}
@@ -970,6 +1006,12 @@ PrefabInstance:
       propertyPath: swordData
       value: 
       objectReference: {fileID: 11400000, guid: 92796c2c4530b4923b6c529a3c42ce30,
+        type: 2}
+    - target: {fileID: 114838149804592962, guid: b8bc53f0eae47e34db6ca6fe84e1055c,
+        type: 3}
+      propertyPath: OnSwordEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 6c366e4945ada4ff69a39ced15ff1528,
         type: 2}
     - target: {fileID: 114838149804592962, guid: b8bc53f0eae47e34db6ca6fe84e1055c,
         type: 3}
